@@ -1,8 +1,11 @@
 <h1 align="center">Hello World!</h1>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jorge-Edson)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ad%C3%A3o-7153341b8/)
+
 Welcome to my profile! My name is Jorge and I'm a programming student.
 
-  [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

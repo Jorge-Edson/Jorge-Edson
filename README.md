@@ -1,6 +1,4 @@
 <h1 align="center">Hello World!</h1>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jorge-Edson)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ad%C3%A3o-7153341b8/)
 
 Welcome to my profile! My name is Jorge and I'm a programming student.
 

@@ -4,9 +4,8 @@
 
 Welcome to my profile! My name is Jorge and I'm a programming student.
 
-<p align="center">
   [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <!--
 **Jorge-Edson/Jorge-Edson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

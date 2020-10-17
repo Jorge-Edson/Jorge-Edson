@@ -5,7 +5,10 @@
 
 Welcome to my profile! My name is Jorge and I'm a programming student.
 
- [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Jorge-Edson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" />
+</a>
+
 
 
 <!--

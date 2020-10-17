@@ -4,10 +4,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ad%C3%A3o-7153341b8/)
 
 Welcome to my profile! My name is Jorge and I'm a programming student.
+<hr>
 
-<a href="https://github.com/Jorge-Edson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" />
+</p>
 
 
 

@@ -10,6 +10,9 @@ Welcome to my profile! My name is Jorge and I'm a programming student.
   <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Edson&show_icons=true&layout=compact&card_width=445px&theme=react" />
+</p>
 
 
 <!--

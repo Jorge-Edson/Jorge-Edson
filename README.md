@@ -36,11 +36,11 @@ I'm always open to new opportunities and collaborations. Whether you want to dis
 Thank you for taking the time to visit my GitHub profile. I look forward to connecting with fellow developers and enthusiasts like you!
 
 <hr>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Edson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Edson&show_icons=true&layout=compact&card_width=445px&theme=github_dark" />
 </p>
